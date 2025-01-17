@@ -32,4 +32,4 @@ This repository contains a **Full-Stack To-Do Application** built using **Spring
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/Thivaghar004/Todo-Application-using-springboot.git
